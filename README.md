@@ -1,0 +1,1 @@
+# Peripheral-GATT-server-in-STM32-IoT-node-and-Central-GATT-client-in-Python-RPi-
